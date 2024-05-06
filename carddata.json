@@ -4,19 +4,19 @@
     "player2": "Bob",
     "score": 42,
     "winner": "Alice",
-    "playerGameBoardPhotoName": "All-cards.png"
+    "playerGameBoardPhotoName": "All-cards.jpg"
   },
   {
     "player1": "Carol",
     "player2": "Dave",
     "score": 38,
     "winner": "Dave",
-    "playerGameBoardPhotoName": "multiple-cards.png"
+    "playerGameBoardPhotoName": "multiple-cards.jpg"
   },
   {
     "player1": "Eve",
     "player2": "Frank",
     "score": 35,
     "winner": "Eve",
-    "playerGameBoardPhotoName": "poker-cards.png"
+    "playerGameBoardPhotoName": "poker.jpg"
   }
