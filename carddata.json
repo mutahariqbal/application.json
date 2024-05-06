@@ -1,0 +1,12 @@
+{
+  "players": [
+    {
+      "name": "Player 1",
+      "cards": ["2 of Hearts", "Ace of Spades", "7 of Diamonds", "Jack of Clubs", "Queen of Hearts"]
+    },
+    {
+      "name": "Player 2",
+      "cards": ["5 of Spades", "10 of Diamonds", "King of Hearts", "3 of Clubs", "8 of Hearts"]
+    }
+  ]
+}
