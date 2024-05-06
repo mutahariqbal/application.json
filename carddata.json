@@ -1,22 +1,23 @@
-
-  {
-    "player1": "Alice",
-    "player2": "Bob",
-    "score": 42,
-    "winner": "Alice",
-    "playerGameBoardPhotoName": "All-cards.jpg"
-  },
-  {
-    "player1": "Carol",
-    "player2": "Dave",
-    "score": 38,
-    "winner": "Dave",
-    "playerGameBoardPhotoName": "multiple-cards.jpg"
-  },
-  {
-    "player1": "Eve",
-    "player2": "Frank",
-    "score": 35,
-    "winner": "Eve",
-    "playerGameBoardPhotoName": "poker.jpg"
-  }
+ [
+    {
+        "player1": "Mike",
+        "player2": "Tina",
+        "score": 30,
+        "winner": "Tina",
+        "playerGameBoardPhotoName": "club-card"
+    },
+    {
+        "player1": "John",
+        "player2": "Jane",
+        "score": 45,
+        "winner": "John",
+        "playerGameBoardPhotoName": "spade-card"
+    },
+    {
+        "player1": "Alice",
+        "player2": "Bob",
+        "score": 50,
+        "winner": "Alice",
+        "playerGameBoardPhotoName": "heart-card"
+    }
+]
