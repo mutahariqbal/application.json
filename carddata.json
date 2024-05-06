@@ -1,14 +1,13 @@
 {
-  "players": [
-    {
+  "game": {
+    "player1": {
       "name": "Player 1",
-      "score": 15,
-      "result": "won"
+      "score": 15
     },
-    {
+    "player2": {
       "name": "Player 2",
-      "score": 10,
-      "result": "lost"
-    }
-  ]
+      "score": 10
+    },
+    "winner": "Player 1"
+  }
 }
