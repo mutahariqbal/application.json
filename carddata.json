@@ -1,13 +1,22 @@
-{
-  "game": {
-    "player1": {
-      "name": "Player 1",
-      "score": 15
-    },
-    "player2": {
-      "name": "Player 2",
-      "score": 10
-    },
-    "winner": "Player 1"
+
+  {
+    "player1": "Alice",
+    "player2": "Bob",
+    "score": 42,
+    "winner": "Alice",
+    "playerGameBoardPhotoName": "All-cards.png"
+  },
+  {
+    "player1": "Carol",
+    "player2": "Dave",
+    "score": 38,
+    "winner": "Dave",
+    "playerGameBoardPhotoName": "multiple-cards.png"
+  },
+  {
+    "player1": "Eve",
+    "player2": "Frank",
+    "score": 35,
+    "winner": "Eve",
+    "playerGameBoardPhotoName": "poker-cards.png"
   }
-}
